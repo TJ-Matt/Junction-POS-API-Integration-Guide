@@ -3,6 +3,7 @@ info:
   version: 1.0.0
   title: Junction@POS transaction API
   description: >-
+    # Description
     The Junction@POS APIs allow for card-based transactions to be peformed by a
     POS. There are two APIs, one being card, used to perform a payment, and the
     other being reverse, used to reverse the previously processed transaction. 
