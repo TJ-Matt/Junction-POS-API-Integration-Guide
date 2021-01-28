@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   version: 1.0.0
-  title: Junction@POS cards transaction API
+  title: Junction@POS Transaction API
   ---
   description: >-
     The Junction@POS APIs allow for card-based transactions to be peformed by a
