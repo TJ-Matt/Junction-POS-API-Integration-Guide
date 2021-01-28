@@ -13,7 +13,7 @@ info:
   contact:
     name: Transaction Junction
     url: 'http://www.transactionjunction.co.za'
-    email: info@switch.tj
+    email: pos-integration@switch.tj 
 host: 'localhost:20001'
 basePath: /tjpos/v1
 schemes:
