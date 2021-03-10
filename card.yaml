@@ -4,7 +4,7 @@ info:
   title: Junction@POS transaction API
   description: >-
     The Junction@POS APIs allow for card-based transactions to be peformed by a
-    POS. There are two APIs, one being card, used to perform a payment, and the
+    POS. There are multiple endpoints APIs, one being card, used to perform a payment, and the
     other being reverse, used to reverse the previously processed transaction. 
     A reversal always refers to the previously processed transaction, while a
     refund is a normal payment transaction type, and can be processed completely
